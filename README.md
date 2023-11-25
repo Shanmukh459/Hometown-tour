@@ -5,7 +5,7 @@
 - Developed this project using HTML and CSS.
 - Deployed at: https://shanmukh-hometown-tour.vercel.app/
 
-##screenshots of the application
+## screenshots of the application
 ![image](https://github.com/Shanmukh459/Hometown-tour/assets/52078988/360f76b3-7cda-480b-8639-efdcf5732187)
 
 ![image](https://github.com/Shanmukh459/Hometown-tour/assets/52078988/5c5b313a-e5cf-4084-be0e-572e7815a472)
